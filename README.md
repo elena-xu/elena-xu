@@ -1,6 +1,6 @@
 Hi, I’m @elena-xu 👋 
 - 🏫 I’m a student at the University of Waterloo studying Systems Design Engineering
-- 🌱 I’m currently learning HTML/CSS and creating my personal website
+- 🌱 Currently learning HTML/CSS and creating my personal website
 - 👩‍💻 I'm interested in UI/UX, mobile and web interface design 
 - ⬅️ Prev @ CIHI
 
