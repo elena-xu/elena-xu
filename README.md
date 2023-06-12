@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elena-xu
-- 👀 I’m a student at the University of Waterloo studying Systems Design Engineering
+- 🏫 I’m a student at the University of Waterloo studying Systems Design Engineering
 - 🌱 I’m currently learning HTML/CSS and creating my personal website
 - 💞️ I’m in search of Fall 2023 co-op opportunities 
 - 📫 How to reach me here: e3xu@uwaterloo.ca
